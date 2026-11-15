@@ -2,10 +2,10 @@
 
 **Animate your Discord chat. Messages slide, pop, glitch or type in, one by one, with a floating control panel to tune every detail.**
 
-[![Version](https://img.shields.io/badge/version-1.0.0-5865F2.svg)](https://github.com/GameHunt7062/Discord-Animatics)
-[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/GameHunt7062/Discord-Animatics/blob/main/LICENSE)
+[![Version](https://img.shields.io/badge/version-1.0.0-5865F2.svg)](https://github.com/gamehuntt/Discord-Animatics)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/gamehuntt/Discord-Animatics/blob/main/LICENSE)
 [![Type](https://img.shields.io/badge/type-console%20script-orange.svg)](#installation)
-[![Stars](https://img.shields.io/github/stars/GameHunt7062/Discord-Animatics?style=flat&color=yellow)](https://github.com/GameHunt7062/Discord-Animatics/stargazers)
+[![Stars](https://img.shields.io/github/stars/gamehuntt/Discord-Animatics?style=flat&color=yellow)](https://github.com/gamehuntt/Discord-Animatics/stargazers)
 
 [Install](#installation) · [Features](#features) · [Using the panel](#using-the-panel) · [Troubleshooting](#troubleshooting) · [Contributing](#contributing)
 
@@ -87,7 +87,7 @@ The script has no dependencies and no build step. It makes **no network requests
 
 ## Installation
 
-The script file is here: [**discord-animatics.js**](https://raw.githubusercontent.com/GameHunt7062/Discord-Animatics/main/discord-animatics.js)
+The script file is here: [**discord-animatics.js**](https://raw.githubusercontent.com/gamehuntt/Discord-Animatics/main/discord-animatics.js)
 
 > [!WARNING]
 > Developer console code can do anything on your Discord page. Discord shows a warning there for a good reason. **Only paste code you trust.** This script is one readable file, and you should read it before you run it. Never run a copy from an unknown source, because someone could have changed it to do something harmful.
@@ -96,7 +96,7 @@ The script file is here: [**discord-animatics.js**](https://raw.githubuserconten
 
 Nothing to install.
 
-1. **Copy the script.** Open the [script file](https://raw.githubusercontent.com/GameHunt7062/Discord-Animatics/main/discord-animatics.js). Press `Ctrl`+`A` to select everything, then `Ctrl`+`C` to copy. On macOS, use `Cmd` instead of `Ctrl`.
+1. **Copy the script.** Open the [script file](https://raw.githubusercontent.com/gamehuntt/Discord-Animatics/main/discord-animatics.js). Press `Ctrl`+`A` to select everything, then `Ctrl`+`C` to copy. On macOS, use `Cmd` instead of `Ctrl`.
 2. **Open Discord in your browser.** Go to [discord.com/app](https://discord.com/app) and log in. Open a server or a DM, so that messages are visible.
 3. **Open the console.** Press `F12` (or `Ctrl`+`Shift`+`I`; `Cmd`+`Option`+`I` on macOS) and click the **Console** tab.
    - Make sure the console context is set to **top**.
@@ -113,7 +113,7 @@ The script works on `discord.com`, `ptb.discord.com` and `canary.discord.com`.
 **PTB** (Public Test Build) and **Canary** are test versions of the Discord desktop app. They are separate apps, and you must log in to each one. Developer tools are normally available in these versions.
 
 1. Download **Discord PTB** or **Discord Canary** from Discord's official download page, install it and log in.
-2. Copy the [script](https://raw.githubusercontent.com/GameHunt7062/Discord-Animatics/main/discord-animatics.js) (`Ctrl`+`A`, then `Ctrl`+`C`).
+2. Copy the [script](https://raw.githubusercontent.com/gamehuntt/Discord-Animatics/main/discord-animatics.js) (`Ctrl`+`A`, then `Ctrl`+`C`).
 3. In the app, press `Ctrl`+`Shift`+`I` (`Cmd`+`Option`+`I` on macOS) and open the **Console** tab.
 4. Paste the script and press `Enter`. If asked, type `allow pasting` first.
 
@@ -158,7 +158,7 @@ Your file may already contain other settings. Keep them, and only add the new li
 
 **Step 4. Start Discord again.**
 
-**Step 5. Copy the script.** Open the [script file](https://raw.githubusercontent.com/GameHunt7062/Discord-Animatics/main/discord-animatics.js), press `Ctrl`+`A` and copy it.
+**Step 5. Copy the script.** Open the [script file](https://raw.githubusercontent.com/gamehuntt/Discord-Animatics/main/discord-animatics.js), press `Ctrl`+`A` and copy it.
 
 **Step 6. Open the developer tools.** Press `Ctrl`+`Shift`+`I` (`Cmd`+`Option`+`I` on macOS) and click the **Console** tab.
 
@@ -359,6 +359,6 @@ This is an unofficial project. It is not affiliated with, endorsed by, or connec
 
 ## License
 
-Released under the [MIT License](LICENSE). Copyright © 2026 GameHunt7062.
+Released under the [MIT License](LICENSE). Copyright © 2026 gamehuntt.
 
-Made by [@gamehuntt](https://github.com/GameHunt7062).
+Made by [@gamehuntt](https://github.com/gamehuntt).
