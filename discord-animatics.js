@@ -1,6 +1,6 @@
 // Discord Animatics v1.0.0
 // Made by @gamehuntt
-// https://github.com/GameHunt7062/Discord-Animatics
+// https://github.com/gamehuntt/Discord-Animatics
 (() => {
   if (window.__DYN__) window.__DYN__.destroy();
   const VER = "1.0.0", ID = "dyn", KEY = "DiscordAnimatics_settings", MSG = 'li[id^="chat-messages-"]', P = "#" + ID;
